@@ -1,4 +1,4 @@
-# Awesome 3d
+# Awesome 3d Web
 
 A list of resources to take a look at, if you try some 3D in Web
 
@@ -8,6 +8,7 @@ A list of resources to take a look at, if you try some 3D in Web
 Tweet: https://twitter.com/the_ross_man/status/1331869039593988096
 
 Tutorial: https://tympanus.net/codrops/2020/12/17recreating-a-dave-whyte-animation-in-react-three-fiber/ 
+
 Github: https://github.com/mattrossman/breathing-dots-tutorial.git
 
 
