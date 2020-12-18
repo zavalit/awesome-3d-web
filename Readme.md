@@ -12,7 +12,7 @@ A list of resources to take a look at if you want to try some awseom 3D in Web
 
 
 #### UI Animation by @the_ross_man
-`r3f` `react-srping` 
+`r3f` `react-spring` 
 
 [Tweet](https://twitter.com/the_ross_man/status/1337853544658046983)
 [Codesandbox](https://v6lg3.csb.app/)
