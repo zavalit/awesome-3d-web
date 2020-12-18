@@ -1,6 +1,6 @@
 # Awesome 3d Web
 
-A list of resources to take a look at, if you try some 3D in Web
+A list of resources to take a look at if you want to try some awseom 3D in Web
 
 #### Points Animation by @the_ross_man
 `shader` `r3f` `postprocessing`
