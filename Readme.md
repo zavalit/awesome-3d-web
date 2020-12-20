@@ -8,7 +8,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/matt_zucker/status/1340313802487820288)
 
-   [Shadertoy](https://shadertoy.com/view/wsGfD3)
+[Shadertoy](https://shadertoy.com/view/wsGfD3)
 
 
 
@@ -18,6 +18,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1331869039593988096)
 [![](https://img.shields.io/github/stars/mattrossman/breathing-dots-tutorial?style=social&label=Github)](https://github.com/mattrossman/breathing-dots-tutorial.git)
+
 [Codrops Tutorial](https://tympanus.net/codrops/2020/12/17/recreating-a-dave-whyte-animation-in-react-three-fiber/) 
 
 
