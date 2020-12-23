@@ -3,7 +3,18 @@
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
-* Procedurally-generated patterns by @matt_zucker
+* Chemical reaction simulation by @jasonwebb
+`three.js` `data texture` `fragment shader` `reaction-diffusion model`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/jasonwebb/status/1341182678922457089)
+[![](https://img.shields.io/github/stars/jasonwebb/reaction-diffusion-playground?style=social&label=Github)](https://github.com/jasonwebb/reaction-diffusion-playground)
+
+[Playground](https://jasonwebb.github.io/reaction-diffusion-playground/app.html)
+
+
+
+---
+* Procedurally-generated patterns by @matt_zucker 
 `shader` `raymarch` `polyhedron`
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/matt_zucker/status/1340313802487820288)
