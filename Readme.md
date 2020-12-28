@@ -2,6 +2,22 @@
 
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
+--- 
+* Generative Baubeles by @thespite 
+`webgl2` `three.js`
+   
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/thespite/status/1342532096355676161)
+   [![](https://img.shields.io/github/stars/spite/baubles?style=social&label=Github)](https://github.com/spite/baubles)
+   
+[Playground](https://spite.github.io/baubles/)
+
+---
+*  Torusknot rotation by @matt_zucker
+`r3f torusknot` 
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1343093438649151488)
+   [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://zc41e.csb.app/)
+
 ---
 * Chemical reaction simulation by @jasonwebb
 `three.js` `data texture` `fragment shader` `reaction-diffusion model`
