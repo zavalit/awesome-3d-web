@@ -12,8 +12,8 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 [Playground](https://spite.github.io/baubles/)
 
 ---
-*  Torusknot rotation by @matt_zucker
-`r3f torusknot` 
+*  Torusknot rotation by @the_ross_man
+`r3f` `torusknot` 
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1343093438649151488)
    [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://zc41e.csb.app/)
