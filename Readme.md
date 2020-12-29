@@ -2,9 +2,26 @@
 
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
+
+---
+* Envoriment Reflection by @0xca0a
+`r3f` `hdri` `reflection`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/0xca0a/status/1343355005911392257)
+   [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/flakes-grading-wvgxp)
+
+
+---
+* Truchet Grid Inversion by @pjkarlik 
+`shader` `raymarching` `inversion` `tuchet`
+
+  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Shadertoy/status/1343647195111673857)
+
+[Shadertoy](https://www.shadertoy.com/view/wl3yDn)
+
 --- 
 * Generative Baubeles by @thespite 
-`webgl2` `three.js`
+`webgl2` `three.js` `shader pass`
    
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/thespite/status/1342532096355676161)
    [![](https://img.shields.io/github/stars/spite/baubles?style=social&label=Github)](https://github.com/spite/baubles)
