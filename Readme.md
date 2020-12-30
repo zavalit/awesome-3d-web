@@ -4,7 +4,24 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 
 ---
+* Template for ray marching shaders by @The_ArtOfCode
+
+`webgl` `shader` `raymarching`
+
+[Shadertoy](https://www.shadertoy.com/view/WtGXDD)
+
+---
+* Curve Motion by @the_ross_man
+
+`r3f` `curve modifier` `torusknot`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1343952509807849472)
+   [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://e0res.csb.app/)
+
+
+---
 * Envoriment Reflection by @0xca0a
+
 `r3f` `hdri` `reflection`
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/0xca0a/status/1343355005911392257)
@@ -13,6 +30,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
 * Truchet Grid Inversion by @pjkarlik 
+
 `shader` `raymarching` `inversion` `tuchet`
 
   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Shadertoy/status/1343647195111673857)
@@ -21,6 +39,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 --- 
 * Generative Baubeles by @thespite 
+
 `webgl2` `three.js` `shader pass`
    
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/thespite/status/1342532096355676161)
@@ -30,6 +49,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
 *  Torusknot rotation by @the_ross_man
+
 `r3f` `torusknot` 
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1343093438649151488)
@@ -37,6 +57,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
 * Chemical reaction simulation by @jasonwebb
+
 `three.js` `data texture` `fragment shader` `reaction-diffusion model`
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/jasonwebb/status/1341182678922457089)
@@ -48,6 +69,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
 * Procedurally-generated patterns by @matt_zucker 
+
 `shader` `raymarch` `polyhedron`
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/matt_zucker/status/1340313802487820288)
@@ -58,6 +80,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
 * Points Animation by @the_ross_man
+
 `shader` `r3f` `postprocessing`
 
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1331869039593988096)
@@ -70,6 +93,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 ---
 
 * UI Animation by @the_ross_man
+
 `r3f` `react-spring` 
 
   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/the_ross_man/status/1337853544658046983)
@@ -78,6 +102,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 ---
 
 * Image Pixelation by @mlperego
+
 `r3f` `postprocessing` `text`
 
   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/mlperego/status/1338950170583719936)
@@ -86,6 +111,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
 * r3f next starter by @onirenaud
+
 `r3f` `next.js`
 
   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/onirenaud/status/1338041518465056772)
