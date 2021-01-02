@@ -2,6 +2,14 @@
 
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
+---
+* PBR texture with reflection pipeline by @mlperego
+
+`r3f` `postprocessing` `pass pipeline` `shader` `PBR texture`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/mlperego/status/1344349221835698179)
+   [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://vn56b.csb.app/)
+
 
 ---
 * Template for ray marching shaders by @The_ArtOfCode
