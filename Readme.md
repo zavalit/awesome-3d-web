@@ -3,6 +3,26 @@
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
+* Multiscale Turing Patterns in WebGL by @rickyreusser
+
+`webgl` `turing clouds` `Fast Fourier Transform`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/rickyreusser/status/1345644182224814085)
+
+[Observable notebook](https://observablehq.com/@rreusser/multiscale-turing-patterns-in-webgl)
+
+
+---
+* Animated generative patterns by @0xca0a
+
+`r3f` `postprocessing` `ssao` `animation` `perlin`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/0xca0a/status/1345737612024295424)
+   [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/perlin-cubes-forked-w9myx)
+
+
+
+---
 * PBR texture with reflection pipeline by @mlperego
 
 `r3f` `postprocessing` `pass pipeline` `shader` `PBR texture`
