@@ -4,6 +4,36 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 
 ---
+* Game starter by 
+
+`r3f` `game`
+
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/simonghales/status/1347099945971564549)
+[![](https://img.shields.io/github/stars/simonghales/react-three-game-starter?style=social&label=Github)](https://github.com/simonghales/react-three-game-starter)
+
+
+
+
+---
+* Animated hologen postproceessing by @mlperego
+
+`r3f` `postprocessing` `displacementMap` `glich` `depth texture`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/mlperego/status/1347616281638432770)
+[![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/gwmd3)   
+
+
+
+---
+* Cross fading opacity by @davidbismut
+
+`r3f` `react-spring` `ScreenQuad` `FXAA`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/davidbismut/status/1347910911311405058)
+[![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://xm76k.csb.app/)   
+
+---
 * Animatied mesh distort material from @0xca0a
 
 `r3f` `react-spring` `svg` `MeshDistortMaterial`
