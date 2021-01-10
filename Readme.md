@@ -2,6 +2,26 @@
 
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
+
+---
+* Animatied mesh distort material from @0xca0a
+
+`r3f` `react-spring` `svg` `MeshDistortMaterial`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/0xca0a/status/1347490916685254656)
+   [![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/charming-ritchie-5oufp)
+
+
+--- 
+* Cornell Box by @Domenico_brz
+
+`three.js` `raymarching` `sspt` `svgf denoise` `cornellbox`
+
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Domenico_brz/status/1347983328083927042)
+   [![](https://img.shields.io/github/stars/Domenicobrz/SSPT-in-threejs?style=social&label=Github)](https://github.com/Domenicobrz/SSPT-in-threejs)
+
+
 ---
 * Multiscale Turing Patterns in WebGL by @rickyreusser
 
