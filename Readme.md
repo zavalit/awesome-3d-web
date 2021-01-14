@@ -2,6 +2,14 @@
 
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
+---
+* Transmission materials and Physics @0xca0a
+
+`r3f` `postprocessing` `transmission` `shader` `physics`
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/0xca0a/status/1348325348690317319)
+[![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/r3f-ibl-envmap-simple-6ebrr)   
+
 
 ---
 * Game starter by 
