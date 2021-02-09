@@ -3,6 +3,29 @@
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
+* Explosion by @0xca0a
+
+`r3f` `reflection` `audio` 
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/0xca0a/status/1357346054635544584)
+[![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/sound-test-dvokj)   
+
+
+
+---
+* Selfie Girl by @iquilezles
+
+
+`sign distance function` `raymarching` `min function` `cubic polynomial` `line segment` `smooth step function` `gradient vector`
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/iquilezles/status/1332491882027384832)
+
+[Shadertoy](https://www.shadertoy.com/view/WsSBzh)
+
+[Youtube](https://www.youtube.com/watch?v=8--5LwHRhjk)
+
+
+---
 * Transmission materials and Physics @0xca0a
 
 `r3f` `postprocessing` `transmission` `shader` `physics`
@@ -12,7 +35,7 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 
 ---
-* Game starter by 
+* Game starter by @simonghales
 
 `r3f` `game`
 
