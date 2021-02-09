@@ -3,6 +3,17 @@
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
+* Rotating shapes by @akella
+
+`webgl` `shaders` `rotation`
+
+
+   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://mobile.twitter.com/codrops/status/1356958704919314437)
+   [![](https://img.shields.io/github/stars/akella/RotatingShapes?style=social&label=Github)](https://github.com/akella/RotatingShapes/)
+
+
+
+---
 * Explosion by @0xca0a
 
 `r3f` `reflection` `audio` 
