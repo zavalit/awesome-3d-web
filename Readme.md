@@ -3,6 +3,15 @@
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 ---
+* WebGLBlobs by @marioecg
+
+`webgl` `shader` `vertex displacement`
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/marioecg/status/1354109672429654023)
+   [![](https://img.shields.io/github/stars/codrops/WebGLBlobs?style=social&label=Github)](https://github.com/codrops/WebGLBlobs/)
+
+
+---
 * Rotating shapes by @akella
 
 `webgl` `shaders` `rotation`
