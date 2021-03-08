@@ -2,6 +2,17 @@
 
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
+
+---
+* bubbles by @stivaliserna
+
+`three.js` `raycaster`
+
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/stivaliserna/status/1366161119765819394)
+
+[Codepen](https://codepen.io/stivaliserna/pen/GRNxGrR)
+
 ---
 * WebGLBlobs by @marioecg
 
