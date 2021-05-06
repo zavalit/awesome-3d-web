@@ -4,6 +4,17 @@ A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 
 ---
+*
+
+`r3f` `soft particles` `instanced mesh` `depth buffer` by @ggsimm
+
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]
+(https://twitter.com/ggsimm/status/1390017555612512257)
+[![CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/r3f-soft-particles-926t0)   
+
+
+---
 * bubbles by @stivaliserna
 
 `three.js` `raycaster`
