@@ -3,6 +3,15 @@
 A list of resources to take a look at if you want to try some awesome 3D in Web.
 
 
+
+---
+* `glsl` `shader` by @i_dianov
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/i_dianov/status/1399054382465966080)
+
+[https://twigl.app/](https://bit.ly/2SBRNai)
+
+
 ---
 *
 
